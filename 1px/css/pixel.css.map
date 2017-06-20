@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,uEAAoE;EAE5D,UAAO;IACH,SAAS,EAAE,WAAU;AAKjC,uEAAoE;EAE5D,UAAO;IACH,SAAS,EAAE,WAAU",
+"sources": ["pixel.scss"],
+"names": [],
+"file": "pixel.css"
+}

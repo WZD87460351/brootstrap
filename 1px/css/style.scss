@@ -1,0 +1,16 @@
+.box{
+    position: relative;
+    height: 300px;
+    width: 100px;
+    background: gray;
+    &:after{
+        position: absolute;
+        left: 0;
+        top: 100px;
+        content: "";
+        display: block;
+        height: 30px;
+        width: 100%;
+        background: red;
+    }
+}
